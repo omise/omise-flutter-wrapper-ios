@@ -24,7 +24,7 @@ let package = Package(
         .binaryTarget(
             name: "App",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/App.xcframework.zip",
-            checksum: "e3e530940a918831f3b852b5d95cdb63a2b6d81a50148bc69643b9185cd35ebb"
+            checksum: "61cc2440b58b943d7d8febe1bd690b679c904bb6ce3edba9c8307884022e4a61"
         ),
         .binaryTarget(
             name: "Flutter",
@@ -34,32 +34,32 @@ let package = Package(
         .binaryTarget(
             name: "FlutterPluginRegistrant",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/FlutterPluginRegistrant.xcframework.zip",
-            checksum: "0c50d3cf52476bdc2ea2a77ee413c56d28f450c66ab1c0afb8010887d6f44e88"
+            checksum: "e8fc6c1e3388d8b2cdbc9cf5fe8f2be9285bb68c94fb51606d465646fd71e853"
         ),
         .binaryTarget(
             name: "ScreenProtectorKit",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/ScreenProtectorKit.xcframework.zip",
-            checksum: "acbf9fecab0a1befeee8fd6a4a601a49eb1e5baae53198d9874d2607949f9716"
+            checksum: "9b9878dae80ea036574acd18cb189adf352aec96e16ee28d470c7e8a7b26965f"
         ),
         .binaryTarget(
             name: "pay_ios",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/pay_ios.xcframework.zip",
-            checksum: "892f489ec742aa95c52649e0292f9eec18e80187ff895aa1d619ef92c60fce50"
+            checksum: "7978cba91576ad1d92223ff1a68b87c85f63cbaba264345eb441e4501afc761e"
         ),
         .binaryTarget(
             name: "screen_protector",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/screen_protector.xcframework.zip",
-            checksum: "4806730fe48b15335083e808290f03a4d13fbdb90cebc5926da47f8aa8d9d9b3"
+            checksum: "3e2c2933abec68ef0f9334f059d174c7d2547e179aee5804ec4fb020a978a6e7"
         ),
         .binaryTarget(
             name: "url_launcher_ios",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/url_launcher_ios.xcframework.zip",
-            checksum: "d3ca34fb7d5cf0279d31a42dbb5baed5d0411817a2c2a54252549d42b45f387d"
+            checksum: "543056038ff5a266dd2b17ccd9bb79580cde9bc3c1f18a5a36b80e4120d9e7bd"
         ),
         .binaryTarget(
             name: "webview_flutter_wkwebview",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/webview_flutter_wkwebview.xcframework.zip",
-            checksum: "b325661cdffd191c98dc973af17442991859b8ceaabd03fece9e2263de902508"
+            checksum: "7bd8632d67d62cbb0d773acfaaa5f0dae018efb842fbcdd2faf9b28b8616a02c"
         ),
     ]
 )
