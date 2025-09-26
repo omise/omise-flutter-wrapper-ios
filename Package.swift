@@ -24,7 +24,7 @@ let package = Package(
         .binaryTarget(
             name: "App",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/App.xcframework.zip",
-            checksum: "61cc2440b58b943d7d8febe1bd690b679c904bb6ce3edba9c8307884022e4a61"
+            checksum: "84f103b517ebcab1b75d1938a8df2cf50302d76e86c1aed1f04ccf50f69a1e85"
         ),
         .binaryTarget(
             name: "Flutter",
@@ -34,27 +34,27 @@ let package = Package(
         .binaryTarget(
             name: "FlutterPluginRegistrant",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/FlutterPluginRegistrant.xcframework.zip",
-            checksum: "e8fc6c1e3388d8b2cdbc9cf5fe8f2be9285bb68c94fb51606d465646fd71e853"
+            checksum: "3ab9359a6296d9081aa11296f60a4540ec0a26a7be445c3460d9a16210073c80"
         ),
         .binaryTarget(
             name: "ScreenProtectorKit",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/ScreenProtectorKit.xcframework.zip",
-            checksum: "9b9878dae80ea036574acd18cb189adf352aec96e16ee28d470c7e8a7b26965f"
+            checksum: "09426a033574caf0c14567bec38488e43084d534850c9a6af7537480832a3df7"
         ),
         .binaryTarget(
             name: "pay_ios",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/pay_ios.xcframework.zip",
-            checksum: "7978cba91576ad1d92223ff1a68b87c85f63cbaba264345eb441e4501afc761e"
+            checksum: "4065f3f6327ae3ad8a8b5edd37a376d475137f39a9d669e8121703100d479419"
         ),
         .binaryTarget(
             name: "screen_protector",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/screen_protector.xcframework.zip",
-            checksum: "3e2c2933abec68ef0f9334f059d174c7d2547e179aee5804ec4fb020a978a6e7"
+            checksum: "1c86dd6310e33128a8c6481dc5cdb0a586035d5fce3841f4ee8d97babf926d42"
         ),
         .binaryTarget(
             name: "url_launcher_ios",
             url: "https://cdn.omise.co/sdk/xcframeworks/0.3.0/url_launcher_ios.xcframework.zip",
-            checksum: "543056038ff5a266dd2b17ccd9bb79580cde9bc3c1f18a5a36b80e4120d9e7bd"
+            checksum: "527d8fdbe0794d6b0cf370b30b8b33dc2acf700611a10ec53d3a6dcf6f8260cc"
         ),
         .binaryTarget(
             name: "webview_flutter_wkwebview",
