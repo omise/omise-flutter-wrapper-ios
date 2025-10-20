@@ -23,43 +23,43 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "App",
-            url: "https://cdn.omise.co/sdk/xcframeworks/0.3.1/App.xcframework.zip",
-            checksum: "5d497587c83bb25d036461743b53e28bc6223d87143eacea328d5679162abc1d"
+            url: "https://cdn.omise.co/sdk/xcframeworks/0.4.0/App.xcframework.zip",
+            checksum: "734a4b6417da04b8936a18ab149380947b43e2ad64d20f08fdf65d4655c691d5"
         ),
         .binaryTarget(
             name: "Flutter",
-            url: "https://cdn.omise.co/sdk/xcframeworks/0.3.1/Flutter.xcframework.zip",
+            url: "https://cdn.omise.co/sdk/xcframeworks/0.4.0/Flutter.xcframework.zip",
             checksum: "a7bd646b28f6bb2915772adfe152526e47b0290c3e3fd119a4ee7e14a371d57a"
         ),
         .binaryTarget(
             name: "FlutterPluginRegistrant",
-            url: "https://cdn.omise.co/sdk/xcframeworks/0.3.1/FlutterPluginRegistrant.xcframework.zip",
-            checksum: "3ab9359a6296d9081aa11296f60a4540ec0a26a7be445c3460d9a16210073c80"
+            url: "https://cdn.omise.co/sdk/xcframeworks/0.4.0/FlutterPluginRegistrant.xcframework.zip",
+            checksum: "f3ca4a6f9eea133c4b6c6b4f6d2968952170b2dae71f69555fb43bb67196c86e"
         ),
         .binaryTarget(
             name: "ScreenProtectorKit",
-            url: "https://cdn.omise.co/sdk/xcframeworks/0.3.1/ScreenProtectorKit.xcframework.zip",
-            checksum: "105ccda0ebdada5a82e83a4b32adfdd0c55fb8fd753bdf3eb5def9b1d4d5dd00"
+            url: "https://cdn.omise.co/sdk/xcframeworks/0.4.0/ScreenProtectorKit.xcframework.zip",
+            checksum: "e40013d5d5eebd4582bd42a07dbc2d9126f99f496887cc4e8c9d57be136ae10d"
         ),
         .binaryTarget(
             name: "pay_ios",
-            url: "https://cdn.omise.co/sdk/xcframeworks/0.3.1/pay_ios.xcframework.zip",
-            checksum: "ac7bbbe3b19a691a54593844c589e6c71573d3088430985e56b08cf19fb97998"
+            url: "https://cdn.omise.co/sdk/xcframeworks/0.4.0/pay_ios.xcframework.zip",
+            checksum: "6a49e13cff1eda08572d415762dfb9e455c4ce470b7bf2cc97e9f780843fbd9c"
         ),
         .binaryTarget(
             name: "screen_protector",
-            url: "https://cdn.omise.co/sdk/xcframeworks/0.3.1/screen_protector.xcframework.zip",
-            checksum: "437d63a6a7330b14c28a18208667592c7cc26df220c0fd5548010b99810fcbc0"
+            url: "https://cdn.omise.co/sdk/xcframeworks/0.4.0/screen_protector.xcframework.zip",
+            checksum: "b92c65135a29e89768455ad2ff98674a1331b49acc240c589695973da3927b72"
         ),
         .binaryTarget(
             name: "url_launcher_ios",
-            url: "https://cdn.omise.co/sdk/xcframeworks/0.3.1/url_launcher_ios.xcframework.zip",
-            checksum: "713ea9ed71612f8f8bfdf12792314f78db38aaac5a1959e0fe0521b75d7efcd2"
+            url: "https://cdn.omise.co/sdk/xcframeworks/0.4.0/url_launcher_ios.xcframework.zip",
+            checksum: "53f23cba8c45c316e88b48f9bce445a0f2ced6fe475393121c9fd18fa5bbd012"
         ),
         .binaryTarget(
             name: "webview_flutter_wkwebview",
-            url: "https://cdn.omise.co/sdk/xcframeworks/0.3.1/webview_flutter_wkwebview.xcframework.zip",
-            checksum: "7bd8632d67d62cbb0d773acfaaa5f0dae018efb842fbcdd2faf9b28b8616a02c"
+            url: "https://cdn.omise.co/sdk/xcframeworks/0.4.0/webview_flutter_wkwebview.xcframework.zip",
+            checksum: "cb154dc32485fb2ea0290f7f320105aee8120b202a2500f205136613bcdd2773"
         ),
     ]
 )
